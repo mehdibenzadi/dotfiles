@@ -51,4 +51,6 @@
   rebase = false
 [user]
 	email = mehdi.benzadi@gmail.com
-	name = Mehdi
+	name = Mehdi Benzadi
+[url "https://"]
+	insteadOf = git://
